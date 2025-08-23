@@ -1,4 +1,12 @@
 import ServicesCard from "../ServicesCard";
+import Web from "../../../assets/Web.png"
+import Swift from "../../../assets/Swift.png"
+import Mysql from "../../../assets/Mysql.png"
+import Maintain2 from "../../../assets/Maintain2.png"
+import UIUX from "../../../assets/UIUX.png"
+import Fire from "../../../assets/Fire.png"
+// import Web from "../../../assets/Web.png"
+
 function ServiceScreen(){
     return(
         <>
@@ -10,32 +18,32 @@ function ServiceScreen(){
                 
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 justify-items-center p-10 -mt-10">
                     <ServicesCard 
-                        path="/Web.png" 
+                        path= {Web}
                         ServiceTitle="Web Design & Development" 
                         ServiceText="Designing pixel-perfect and intuitive user interfaces that enhance engagement and usability." 
                     />
                     <ServicesCard 
-                        path="/Swift.png" 
+                        path={Swift} 
                         ServiceTitle="IOS App Development" 
                         ServiceText="Connecting your app to powerful backend services like Firebase, REST APIs, and cloud storage." 
                     />
                     <ServicesCard 
-                        path="/Mysql.png"  
+                        path={Mysql}  
                         ServiceTitle="Backend Development with MySQL"  
                         ServiceText="MySQL database integration for storing and managing data effectively." 
                     />
                     <ServicesCard 
-                        path="/Maintain2.png" 
+                        path={Maintain2} 
                         ServiceTitle="Maintenance & Support" 
                         ServiceText="Providing ongoing updates, security patches, and reliable support after launch." 
                     />
                     <ServicesCard 
-                        path="/UIUX.png" 
+                        path={UIUX} 
                         ServiceTitle="UI / UX" 
                         ServiceText="Designing pixel-perfect and intuitive user interfaces that enhance engagement and usability." 
                     />
                     <ServicesCard 
-                        path="/Fire.png" 
+                        path={Fire}
                         ServiceTitle="Firebase" 
                         ServiceText="Connecting your app to powerful backend services like Firebase, REST APIs, and cloud storage." 
                     />
