@@ -2,14 +2,14 @@ import { ReactTyped } from "react-typed";
 function Content(){
     return (
         <>
-            <h1 className="text-[20px] 
+            <h1 className="text-[30px] 
             sm:text-[20px]
             md:text-[25px]
             lg:text-[30px]
             xl:text-[35px]
             2xl:text-[100px]
             font-serif opacity-60">Hi,
-            <span className="text-[15px]
+            <span className="text-[20px]
             sm:text-[15px]
             md:text-[17px]
             lg:text-[20px]
@@ -17,7 +17,7 @@ function Content(){
             2xl:text-[60px]
              font-bold">I'm 
              <br />
-            <span className="text-[23px]
+            <span className="text-[30px]
             sm:text-[25px]
             md:text-[30px]
             lg:text-[35px]
@@ -36,7 +36,7 @@ function Content(){
                     backSpeed={30}
                     cursorChar="|"
                     showCursor={true}
-                    className="text-[#E46400] font-extrabold text-[22px]
+                    className="text-[#E46400] font-extrabold text-[30px]
                     sm:text-[23px]
                     md:text-[25px]
                     lg:text-[30px]

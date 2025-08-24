@@ -2,7 +2,7 @@
 function Content() {
     return (
         <div className="flex flex-col justify-center items-start p-5 sm:p-8 md:p-10 xl:mr-20">
-            <p className="text-xs sm:text-sm md:text-base xl:text-[14px] xl:w-[600px] text-gray-400 tracking-wider leading-relaxed">
+            <p className="text-[15px] sm:text-sm md:text-base xl:text-[14px] xl:w-[600px] text-gray-400 tracking-wider leading-relaxed">
                 Hi, I’m Siranjeevan , a Frontend Developer, Backend Developer, and iOS App Developer with a deep passion for creating digital solutions that look amazing and perform flawlessly. My journey in technology started with curiosity and quickly grew into a full-time passion for designing, developing, and delivering top-quality websites and applications.
                 <br /><br />
                 On the frontend, I craft responsive, pixel-perfect designs using React, Tailwind CSS, Bootstrap, HTML, CSS, and JavaScript — ensuring every user enjoys a smooth and engaging experience.

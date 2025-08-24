@@ -37,7 +37,7 @@ export default function Header() {
               <span className="sr-only">Open main menu</span>
               <Bars3Icon
                 aria-hidden="true"
-                className="size-6 text-amber-300"
+                className="size-6 text-[#E46400]"
               />
             </button>
           </div>

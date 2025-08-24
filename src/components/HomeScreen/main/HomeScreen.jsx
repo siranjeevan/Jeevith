@@ -12,7 +12,7 @@ function HomeScreen() {
                 gap-10 px-6 sm:px-10 lg:px-20 xl:px-30 
                 xl:mt-40 text-white" >
         {/* Left Section */}
-        <div className="flex justify-center flex-col w-full lg:w-1/2">
+        <div className="flex ml-30 sm:ml-0 justify-center flex-col w-full lg:w-1/2">
             <Content />
             <SocialMediaIcon />
             <ButtonNavigate />

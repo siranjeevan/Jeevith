@@ -4,7 +4,7 @@ function SocialMediaIcon(){
     return(
         <>
             <div className="flex  items-center flex-row mt-7 
-                text-[25px]
+                text-[30px]
                 sm:text-[30px] sm:gap-3
                 md:text-[35px] md:gap-5
                 lg:text-[40px] lg:gap-5
