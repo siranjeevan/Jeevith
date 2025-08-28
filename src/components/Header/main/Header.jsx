@@ -6,7 +6,7 @@ import NavigationLinks from "../NavigationLinks";
 import MobileMenu from "../MobileMenu";
 
 const navigation = [
-  { name: "Home", href: "#" },
+  { name: "Home", href: "" },
   { name: "Services", href: "#" },
   { name: "About me", href: "#" },
   { name: "My project", href: "#" },

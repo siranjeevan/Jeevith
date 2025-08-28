@@ -11,16 +11,16 @@ function SocialMediaIcon(){
                 xl:text-[42px] xl:gap-6 
                 2xl:text-[65px] 2xl:gap-10
                 ">
-                <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/heartless_jeevith/" target="_blank" rel="noopener noreferrer">
                     <FaInstagram className="text-white border-1 p-2 rounded-full hover:text-red-500 transition duration-300" />
                 </a>
-                <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/siranjeevan" target="_blank" rel="noopener noreferrer">
                     <FaGithub className="text-white border-1 p-2 rounded-full   hover:text-gray-600 transition duration-300 ml-5" />
                 </a>
-                <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/siranjeevan-c-b0540b307/" target="_blank" rel="noopener noreferrer">
                     <FaLinkedin className="text-white border-1 p-2 rounded-full hover:text-blue-300 transition duration-300 ml-5" />
                 </a>
-                <a href="https://facebook.com/yourusername" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.facebook.com/saralachandru.saralachandru.7/" target="_blank" rel="noopener noreferrer">
                     <FaFacebook className="text-white border-1 p-2 rounded-full hover:text-blue-400 transition duration-300 ml-5 " />
                 </a>
             </div>
